@@ -11,7 +11,8 @@ Find five most used words in a file. Treat words in case insensitive manner. Imp
 
 You can use the following snippet to read lines:
 
-```Files.lines(Paths.get("lorem-ipsum.txt"))
+```java
+Files.lines(Paths.get("lorem-ipsum.txt"))
 ```
 
 Additional tips:
