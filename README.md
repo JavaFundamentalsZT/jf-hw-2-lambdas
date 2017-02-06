@@ -17,6 +17,7 @@ Files.lines(Paths.get("lorem-ipsum.txt"))
 
 Additional tips:
 * Consider edge cases!
+* Add more unit tests 
 * must work with any file, not only lorem-ipsum.txt
 * punctuation matters
 * format your code!
