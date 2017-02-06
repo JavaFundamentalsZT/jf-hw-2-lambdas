@@ -7,7 +7,7 @@ Homework assignment
 -------------------
 Implement the method ```getWords(filename)``` in class ```Homework2```. Do not change the method signature.
 
-Find five most used words in a file. Treat words in case insensitive manner. Implementation must use the stream API and lambdas.
+Find five most used words in a file. Treat words in case insensitive manner and skip one-letter words. Implementation must use the stream API and lambdas.
 
 You can use the following snippet to read lines:
 
